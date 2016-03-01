@@ -10,6 +10,7 @@ This is my numbered list:
 1. Number1 
 2. Number2 
 3. Number3 
+4. Number4 
 
 This is my bulleted list: 
 
